@@ -1,6 +1,6 @@
 # Maratona de Programação da SBC – ACM ICPC – 2010
 
-O [arquivo](https://github.com/RodolfoHerman/maratona-de-programacao-formula1-problemaf/blob/master/2010_maratona.pdf) contém todos os problemas da maratona da SBC. Na disciplina de GRAFOS o professor dividiu os problemas entre os alunos e me foi dado o problema de letra F denominado Fórmula 1 para soluciona-lo.  
+O [arquivo 2010_maratona.pdf](https://github.com/RodolfoHerman/maratona-de-programacao-formula1-problemaf/blob/master/2010_maratona.pdf) contém todos os problemas da maratona da SBC de 2010. Na disciplina de GRAFOS, o professor dividiu os problemas entre os alunos e me foi dado o problema de letra F denominado Fórmula 1. Com o desafio dado consegui realizar a sua implementação.  
 
 ## Descrição do problema
 
