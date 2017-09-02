@@ -8,14 +8,14 @@ A temporada de Fórmula 1 consiste de uma série de corridas, conhecidas como Gr
 
 ```
 Colocação | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 |
-Pontos       | 10 | 08 | 06 | 05 | 04 | 03 | 02 | 01 |
+Pontos    | 10 | 08 | 06 | 05 | 04 | 03 | 02 | 01 |
 ```
 
 Ou seja, o piloto vencedor ganhava 10 pontos, o segundo colocado ganhava 8 pontos, e assim por diante. Na temporada de 2010 os dez primeiros colocados receberão pontos, obedecendo a seguinte tabela:
 
 ```
 Colocação | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
-Pontos       | 25 | 18 | 15 | 12 | 10 | 08 | 06 | 04 | 02 | 01 |
+Pontos    | 25 | 18 | 15 | 12 | 10 | 08 | 06 | 04 | 02 | 01 |
 ```
 
 A mudança no sistema de pontuação provocou muita especulação sobre qual teria sido o efeito nos Campeonatos Mundiais passados se a nova pontuação tivesse sido utilizada nas temporadas anteriores. Por exemplo, teria Lewis Hamilton sido campeão em 2008, já que a diferença de sua pontuação total para Felipe Massa foi de apenas um ponto? Para acabar com as especulações, a FIA contratou você para escrever um programa que, dados os resultados de cada corrida de uma temporada determine Campeão Mundial de Pilotos para sistemas de pontuações diferentes.
